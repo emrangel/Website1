@@ -21,3 +21,12 @@ options(
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.81.0")
+
+options(
+  blogdown.author = "Alison Hill",
+  blogdown.ext = ".Rmd",
+  blogdown.subdir = "post",
+  blogdown.yaml.empty = TRUE,
+  blogdown.new_bundle = TRUE,
+  blogdown.title_case = TRUE
+)
