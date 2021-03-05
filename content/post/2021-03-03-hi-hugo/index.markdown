@@ -16,3 +16,9 @@ image:
   preview_only: no
 projects: []
 ---
+
+``` r
+blogdown::shortcode("youtube", "CjTLN-FXiFA")
+```
+
+{{% youtube "CjTLN-FXiFA" %}}
